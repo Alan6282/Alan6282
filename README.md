@@ -1,33 +1,47 @@
-# Alan S Mathew  
-**Backend Developer — Python & Node.js**
+<h1 align="center">Alan S Mathew</h1>
+<h3 align="center">Backend Developer</h3>
 
-Backend-focused developer building clean, scalable server-side systems.  
-Experienced with Django (DRF) and Node.js (Express), with an interest in API design, authentication, and performance.
-
----
-
-### Skills
-**Languages:** Python · JavaScript · HTML · CSS  
-**Backend:** Django · Django REST Framework · Flask · Node.js · Express  
-**Databases:** PostgreSQL · MySQL  
-**Tools:** Docker · Redis · JWT · Git · Postman · Swagger  
-**Concepts:** REST APIs · MVC · Auth · API Design
+<p align="center">
+  <a href="mailto:alansmathew8@gmail.com">alansmathew8@gmail.com</a> •
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
+  <a href="https://github.com/Alan6282">GitHub</a>
+</p>
 
 ---
 
-### Projects
+I build backend systems with Python and Node.js. Focus on APIs, authentication, and making things run smoothly.
 
-**FlashCard API**  
-Backend API for a flashcard-based learning platform.  
-JWT auth · Redis caching · Pagination · Swagger docs  
-🔗 https://github.com/Alan6282/FlashCardLearning-API
-
-**FluencyBot**  
-Language learning chatbot built with Django.  
-Level-based questions · Modular backend  
-🔗 https://github.com/Alan6282/chatbot
+**Stack:** Django, Express, PostgreSQL, Redis, Docker
 
 ---
 
-📫 **Contact**  
-alansmathew8@gmail.com · LinkedIn
+### FlashCard Learning API
+Full-featured REST API for flashcard learning platform.
+
+- JWT authentication & user management
+- Redis caching for performance
+- Paginated endpoints
+- Full Swagger documentation
+
+[github.com/Alan6282/FlashCardLearning-API](https://github.com/Alan6282/FlashCardLearning-API)
+
+---
+
+### FluencyBot
+Language learning chatbot with adaptive difficulty levels.
+
+- Built with Django
+- Progressive question difficulty
+- Modular backend architecture
+
+[github.com/Alan6282/chatbot](https://github.com/Alan6282/chatbot)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alan6282&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan6282&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
